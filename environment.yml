@@ -1,0 +1,32 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.8
+  - menuinst
+  - console_shortcut
+  - powershell_shortcut
+  - conda-env
+  - conda-build
+  - conda-verify
+  - _ipyw_jlab_nb_ext_conf
+  - anaconda==2021.05=py38_0
+  - anaconda-navigator
+  - navigator-updater
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=10.2
+  - librosa
+  - transformers
+  - speechrecognition
+  - pydub
+  - r-slider
+  - slidingwindow
+  - dash
+  - chart-studio
+  - mpld3
+  - pyspark
+  - nbconvert
+prefix: C:\Users\Ajit.Dange\Anaconda3
